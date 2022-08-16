@@ -1,3 +1,3 @@
 # cv
 
-# To view my CV visit --> https://gersonkaitor.github.io/CV/
+To view my CV visit --> [a link](https://gersonkaitor.github.io/CV/)
